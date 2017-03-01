@@ -1,4 +1,5 @@
 .editorconfig
 .DS_Store
 .vagrant/
+bundle.js
 Vagrantfile
