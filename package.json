@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shimomo/hitokotonushi/issues"
   },
-  "homepage": "https://github.com/shimomo/hitokotonushi"
+  "homepage": "https://github.com/shimomo/hitokotonushi",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }

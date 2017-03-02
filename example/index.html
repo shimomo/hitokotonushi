@@ -1,8 +1,7 @@
-<script src="./bundle.js"></script>
 <script src="./config.js"></script>
+<script src="../dist/hitokotonushi.js"></script>
 
 <script>
-var h = require('hitokotonushi');
-h.setConfig(config);
-console.log(h.getUri('users'));
+hitokotonushi.setConfig(config);
+console.log(hitokotonushi.getUri('users'));
 </script>
