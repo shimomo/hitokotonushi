@@ -2,4 +2,5 @@
 .DS_Store
 .vagrant/
 bundle.js
+node_modules/
 Vagrantfile
