@@ -18,7 +18,8 @@
   "homepage": "https://github.com/shimomo/hitokotonushi",
   "devDependencies": {
     "browserify": "^14.1.0",
-    "gulp": "^3.9.1",
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^2.1.0",
     "mocha": "^3.2.0",
     "vinyl-source-stream": "^1.1.0"
   }
